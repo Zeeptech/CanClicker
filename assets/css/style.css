@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+* {
+    background-color: rgb(33, 33, 34);
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+ }
+ 
+ #CanClicker:hover{
+    cursor: pointer;
+}
+p {
+    color: aliceblue;
+    font-size: x-large;
+}
+#GameWrapper{
+    display: grid;
+    justify-content: center;
+    padding-top: 25px;
+}
